@@ -1,0 +1,2 @@
+[PHONE]: 255677028965, 255677035684, 255677011378, 255789599505
+[SMS]: Hello, I have succeeded sending this to your number {PHONE}.
